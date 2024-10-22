@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, people call me Willy 😊
 
-<!--
-**williamsmedina/williamsmedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a Support Engineer, helping numerous companies resolve issues and concerns in various IT infrastructure and cybersecurity solutions. 
 
-Here are some ideas to get you started:
+### Skills and Expertise:
+- **Microsoft Azure ☁️**
+- **Windows Server 🖥️**
+- **Fortigate 🔒**
+- **VMware ESXi & vSphere 🖧**
+- **Kaspersky Security Center 🛡️**
+- **Dell PowerConnect & PowerEdge 💻**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am known for my willingness to help, my passion for taking on new challenges, and, of course, enjoying the journey.
