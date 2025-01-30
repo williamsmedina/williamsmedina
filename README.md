@@ -1,6 +1,6 @@
 ## Hi, people call me Willy 😊
 
-I am currently a Support Engineer, helping numerous companies resolve issues and concerns in various IT infrastructure and cybersecurity solutions. 
+I am currently a Cybersecurity Analyst, helping numerous companies resolve issues and concerns in various IT infrastructure and cybersecurity solutions. 
 
 ### Skills and Expertise:
 - **Microsoft Azure ☁️**
